@@ -1,16 +1,21 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img align="right" alt="Girl coding" height="350px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br>
-<br>
+
+<h1 align="left">
+  Olá 💚
+
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Ol%C3%A1%2C+eu+sou+a+fdiando!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Eu+sou+a+fdiando!" 
+alt="Typing SVG" />
 </a>
 
 </div>
 
+</div>
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:nadiafernanda0373@gmail.com)
@@ -146,4 +151,8 @@ Learning... ██████████ 100%
 ---
 🖤 *"Think like an attacker. Build like a defender."*
 
-⭐ Obrigada por visitar meu perfil!
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=500&lines=+Obrigada+por+visitar+meu+perfil!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG">
+</a>
+</div>
