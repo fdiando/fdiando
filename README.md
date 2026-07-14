@@ -155,10 +155,3 @@ Learning... ██████████ 100%
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=500&lines=+Obrigada+por+visitar+meu+perfil!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG">
 </a>
 </div>
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/fdiando/fdiando/output/github-snake.svg" width="600">
-
-</div>
