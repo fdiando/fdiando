@@ -162,4 +162,4 @@ Learning... ██████████ 100%
   <img alt="github snake" src="https://raw.githubusercontent.com/fdiando/fdiando/output/github-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/fdiando/fdiando/main/assets/fdiando-snake.svg" width="500">?
+<img src="https://raw.githubusercontent.com/fdiando/fdiando/main/assets/fdiando-snake.svg" width="500">
