@@ -157,8 +157,6 @@ Learning... ██████████ 100%
 </div>
 
 
-## 🐍 Minha contribuição
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/fdiando/fdiando/output/github-snake.svg" width="600">
