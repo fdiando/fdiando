@@ -161,3 +161,5 @@ Learning... ██████████ 100%
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fdiando/fdiando/output/github-snake.svg">
   <img alt="github snake" src="https://raw.githubusercontent.com/fdiando/fdiando/output/github-snake.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/fdiando/fdiando/main/assets/fdiando-snake.svg" width="500">?
