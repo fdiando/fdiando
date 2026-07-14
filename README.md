@@ -64,7 +64,6 @@ Ferramentas e conceitos:
 - 🕵️ Reconhecimento e análise
 - 📡 Redes e protocolos
 - 🔒 Boas práticas de segurança
-- 
 ---
 ## 🌐 Networking
 
