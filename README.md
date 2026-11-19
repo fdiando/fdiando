@@ -10,16 +10,18 @@
 
 ### Computer Science Student at 42
 
-**Aspiring IT Architecture Expert | Cybersecurity & Cryptography Enthusiast**
-
 <br>
 
 <a href="https://www.linkedin.com/in/n%C3%A1dia-fernanda-5940871a9/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=flat-square&logo=linkedin&logoColor=black" />
 </a>
+<a href="https://www.instagram.com/bug_fdiando/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-00FF41?style=flat-square&logo=instagram&logoColor=black" />
+</a>
 <a href="mailto:nadiafernanda0373@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-00FF41?style=flat-square&logo=gmail&logoColor=black" />
 </a>
+
 
 </div>
 
